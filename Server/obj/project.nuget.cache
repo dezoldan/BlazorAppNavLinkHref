@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuuUs4ht+/C6Lf9g+dvcvxOBPHQ2RmDo1ERlDY4TKjpmfp+1eB19XmMYu9M81GGi8sZqwWlSzt9+V9R9dRoZMA==",
+  "dgSpecHash": "n8iSB0VIWPYXEIPeb+GHZlrcho4/b5edqOhR74Ol99cVFGwrnlfBCsAzsuhnlrCFpmUx01Lu4JyXPGIRwWqH0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Server\\BlazorApp1.Server.csproj",
+  "projectFilePath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Server\\BlazorApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dezol\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dezol\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

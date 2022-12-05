@@ -2192,11 +2192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Client\\BlazorApp1.Client.csproj",
+      "projectUniqueName": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Client\\BlazorApp1.Client.csproj",
       "projectName": "BlazorApp1.Client",
-      "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Client\\BlazorApp1.Client.csproj",
+      "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Client\\BlazorApp1.Client.csproj",
       "packagesPath": "C:\\Users\\dezol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Client\\obj\\",
+      "outputPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dezol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2213,8 +2213,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\BlazorApp1.Shared.csproj": {
-              "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\BlazorApp1.Shared.csproj"
+            "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\BlazorApp1.Shared.csproj": {
+              "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\BlazorApp1.Shared.csproj"
             }
           }
         }

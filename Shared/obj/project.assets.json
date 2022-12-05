@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\BlazorApp1.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\BlazorApp1.Shared.csproj",
       "projectName": "BlazorApp1.Shared",
-      "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\BlazorApp1.Shared.csproj",
+      "projectPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\BlazorApp1.Shared.csproj",
       "packagesPath": "C:\\Users\\dezol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dezol\\AppData\\Roaming\\NuGet\\NuGet.Config",

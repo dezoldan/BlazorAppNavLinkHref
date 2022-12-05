@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRc1c6e5Kz7SdGM4jflSZGGhKHejcA7yS8nLaF8+1FLEjTPaEuDEFPE4lJozopf54qHg+Dv9YZn0s6Jj9rX9UQ==",
+  "dgSpecHash": "NNMIlTBryARE+ibN9mUwHrvSEP18ELEAhuKoMhtr+w5CPqmTWoeM84Zq0NJDKnOkABTaUHmgk4Rwq4HE3T/w5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppVideos\\Shared\\BlazorApp1.Shared.csproj",
+  "projectFilePath": "C:\\Users\\dezol\\Source\\Repos\\BlazorAppNavLinkHref\\Shared\\BlazorApp1.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
